@@ -1,4 +1,4 @@
-<p align="center"><a href="/" target="_blank"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/github.jpg" width="400"></a></p>
+<p align="center"><a href="/" target="_blank"><img src="https://github.com/3ill/3ill-s-Portfolio/blob/main/src/assets/github.jpg" width="700"></a></p>
 
 <h1 align="center">Welcome to imagin3 Repo 🤝</h1>
 
